@@ -1,2 +1,2 @@
-Cheeseburger with tomato and mayonaise
-Chocolate Chip Cookies
+Cheeseburger with tomato and mayonaise [main-course]
+Chocolate Chip Cookies [breakfast]
